@@ -1,0 +1,9 @@
+Line 52: Class DoubleAgentCtl.DaControl of control DaControl1 was not a loaded control class.
+Line 55: The property name _Version in DaControl1 is invalid.
+Line 56: The property name _ExtentX in DaControl1 is invalid.
+Line 57: The property name _ExtentY in DaControl1 is invalid.
+Line 58: The property name RaiseRequestErrors in DaControl1 is invalid.
+Line 59: The property name AutoConnect in DaControl1 is invalid.
+Line 62: The property name BorderColor in DaControl1 is invalid.
+Line 64: The property name BorderVisible in DaControl1 is invalid.
+Line 65: The property name BorderWidth in DaControl1 is invalid.
